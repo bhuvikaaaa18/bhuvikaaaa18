@@ -1,55 +1,48 @@
 <div align="center">
 
-# 💅 Bhuvikaaa
+<h1>💅 Bhuvikaaa</h1>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="170"/>
 
-*cat mom · code witch · chocolate powered*
+<br/>
 
----
-
-## ✨ my vibe
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-
-```
-🐱 cats > people
-🍫 chocolate is life
-👗 fashion enthusiast
-🧛 vampire diaries stan
-☔ rain lover
-🌙 creature of darkness
-📖 novels & poetry
-🎨 art & cartoons
-```
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
+🖤 <b>cat mom</b> · <b>code witch</b> · <b>chocolate powered</b> 🖤  
 
 ---
 
-## 💻 what i build
+### ✨ vibe check
 
-**mobile** · react native
-**web** · react · javascript · node
-**hardware** · vlsi · iot · embedded
-**data** · mongodb · mysql · firebase
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="210"/>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
-
----
-
-## 📊 stats
-
-![](https://github-readme-stats.vercel.app/api?username=bhuvikaaaa18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhuvikaaaa18&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180"/>
+`🐱` cats > people · `🍫` choco addict  
+`👗` fashion freak · `🧛` vampire diaries  
+`☔` rain > sunlight · `🌙` night coder  
 
 ---
 
-*coding in the dark, fueled by fries* 🍟
+### 💻 what i play with
 
-![](https://komarev.com/ghpvc/?username=bhuvikaaaa18&color=ff69b4&style=flat-square)
+`📱` React Native `🌐` React · JS · Node  
+`🔌` VLSI · IoT · Embedded  
+`🗄️` MongoDB · MySQL · Firebase  
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210"/>
+
+---
+
+### 📊 stats corner
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvikaaaa18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvikaaaa18&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="150" />
+</p>
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
+
+---
+
+🍟 <i>coding in the dark, fueled by fries</i>
+
+<img src="https://komarev.com/ghpvc/?username=bhuvikaaaa18&color=ff69b4&style=flat-square" />
 
 </div>
