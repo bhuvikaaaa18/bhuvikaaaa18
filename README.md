@@ -1,27 +1,36 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=130&lines=Hello+hello;I'm+Ing+✨;tech+goblin+·+backend+witch+·+magical+girl+wannabe" width="70%" />
+<h1>💅 Bhuvikaaa</h1>
 
-<br><br>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="170"/>
 
-<pre>
-💻 Frontend Developer · Mobile App Builder
-⚛ React · React Native · JavaScript · Node.js
-🔌 VLSI · IoT · Embedded systems
-🗄️ MongoDB · MySQL · Firebase
-🐱 Cat mom · 🍫 Chocolate addict · 🌙 Night coder
-</pre>
+<br/>
 
-<br>
+🖤 <b>cat mom</b> · <b>code witch</b> · <b>chocolate powered</b> 🖤  
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="120" alt="cute cat gif"/>
+### 💻 what i play with
 
-<br><br>
+`📱` React Native `🌐` React · JS · Node  
+`🔌` VLSI · IoT · Embedded  
+`🗄️` MongoDB · MySQL · Firebase  
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210"/>
 
-<br><br><br>
+---
 
+### 📊 stats corner
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvikaaaa18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvikaaaa18&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="150" />
+</p>
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
+
+---
+
+🍟 <i>coding in the dark, fueled by fries</i>
+
+<img src="https://komarev.com/ghpvc/?username=bhuvikaaaa18&color=ff69b4&style=flat-square" />
 
 </div>
-
