@@ -6,8 +6,6 @@
 
 <br/>
 
-🖤 <b>cat mom</b> · <b>code witch</b> · <b>chocolate powered</b> 🖤  
-
 ### 💻 what i play with
 
 `📱` React Native `🌐` React · JS · Node  
