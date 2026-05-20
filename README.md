@@ -1,34 +1,118 @@
 <div align="center">
 
-<h1>💅 Bhuvikaaa</h1>
+# Hey, I'm Bhuvika Anand Aganur
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="170"/>
+### Electronics & Communication Engineering Student | VLSI Curious | Circuit Thinker | Debugging Reality One Signal at a Time
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhuvika--aganur--portfolio.netlify.app-ff69b4?style=for-the-badge&logo=netlify&logoColor=white)](https://bhuvika-aganur-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvika%20Aganur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhuvika-aganur)
+[![ECE](https://img.shields.io/badge/Branch-ECE-purple?style=for-the-badge)](#)
 
-### 💻 what i play with
-
-`📱` React Native `🌐` React · JS · Node  
-`🔌` VLSI · IoT · Embedded  
-`🗄️` MongoDB · MySQL · Firebase  
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="210"/>
+</div>
 
 ---
 
-### 📊 stats corner
+## About Me
+
+I'm an Electronics and Communication Engineering undergraduate at **Gogte Institute of Technology, Belagavi**, currently building my way through the beautiful chaos of circuits, signals, silicon dreams, and "why is this not working?" moments.
+
+I like tech that has both brains and voltage. From **Digital Electronics** and **Analog Circuits** to **Signals & Systems**, **Electronic Devices**, and early VLSI exploration, I enjoy understanding how ideas travel from theory to hardware.
+
+Translation: I don't just want code to run. I want the circuit to behave, the waveform to make sense, and the schematic to stop judging me.
+
+---
+
+## What I'm Into
+
+- **VLSI & Semiconductor Design** because tiny transistors casually run the modern world
+- **Digital Electronics** where logic gates have more discipline than most group projects
+- **Analog Circuits** because real-world signals love drama
+- **Signals & Systems** for decoding what the universe is trying to say
+- **EDA Tools & Circuit Design** with growing hands-on exposure to Cadence workflows
+- **Embedded + Hardware Thinking** because software is cooler when it can touch the real world
+
+---
+
+## Tech & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvikaaaa18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvikaaaa18&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="150" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode" alt="Skills" />
 </p>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20Electronics-Logic%20Mode%20ON-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analog%20Circuits-Noisy%20but%20Iconic-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Signals%20%26%20Systems-Frequency%20Fluent-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-Schematic%20Ready-orange?style=flat-square" />
+</p>
 
 ---
 
-🍟 <i>coding in the dark, fueled by fries</i>
+## Currently Learning
 
-<img src="https://komarev.com/ghpvc/?username=bhuvikaaaa18&color=ff69b4&style=flat-square" />
+- Strengthening ECE fundamentals with a focus on **digital design and circuit analysis**
+- Exploring **VLSI design concepts**, schematics, and semiconductor workflows
+- Building confidence with tools, projects, and the kind of debugging that builds character
+- Turning coursework into practical projects instead of letting it sleep in notebooks
+
+---
+
+## Education
+
+**B.E. in Electronics and Communication Engineering**  
+Gogte Institute of Technology, Belagavi  
+**2023 - 2027**
+
+Relevant coursework includes:
+
+- Digital Electronics
+- Analog Circuits
+- Signals and Systems
+- Electronic Devices
+
+---
+
+## Certification
+
+**Virtuoso Schematic Editor S1: Creating Design Schematics vIC25.1**  
+Cadence
+
+---
+
+## GitHub Energy
+
+<div align="center">
+
+<!-- Replace YOUR_GITHUB_USERNAME with the exact GitHub username before publishing. -->
+![Bhuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## My Engineering Mood
+
+```txt
+Input: curiosity + caffeine + one stubborn bug
+Process: simulate, debug, recheck, learn, repeat
+Output: cleaner logic, stronger fundamentals, and a slightly sassier engineer
+```
+
+---
+
+## Let's Connect
+
+- Portfolio: [bhuvika-aganur-portfolio.netlify.app](https://bhuvika-aganur-portfolio.netlify.app)
+- LinkedIn: [Bhuvika Aganur](https://in.linkedin.com/in/bhuvika-aganur)
+
+---
+
+<div align="center">
+
+### Circuits may be complex, but the goal is simple:
+
+**Build smart. Learn loud. Debug with attitude.**
 
 </div>
