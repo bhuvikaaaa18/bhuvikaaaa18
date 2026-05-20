@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Bhuvikaaa
+# Hey, I'm Bhuvika Anand Aganur
 
-### Electronics & Communication Engineering Student | VLSI Curious
+### Electronics & Communication Engineering Student | VLSI Curious | Circuit Thinker | Debugging Reality One Signal at a Time
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhuvika--aganur--portfolio.netlify.app-ff69b4?style=for-the-badge&logo=netlify&logoColor=white)](https://bhuvika-aganur-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvika%20Aganur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhuvika-aganur)
@@ -20,6 +20,13 @@ I like tech that has both brains and voltage. From **Digital Electronics** and *
 
 Translation: I don't just want code to run. I want the circuit to behave, the waveform to make sense, and the schematic to stop judging me.
 
+🔭 I'm currently working on **ECE projects and hands-on circuit design**<br>
+👯 I'm looking to collaborate on **electronics, embedded, and beginner-friendly tech projects**<br>
+🤝 I'm looking for help with **VLSI, semiconductor workflows, and practical EDA tool mastery**<br>
+🌱 I'm currently learning **digital design, circuit analysis, and VLSI fundamentals**<br>
+💬 Ask me about **ECE coursework, circuits, signals, and surviving schematic errors with style**<br>
+⚡ Fun fact: I trust waveforms more than words. They expose everything.
+
 ---
 
 ## What I'm Into
@@ -33,10 +40,32 @@ Translation: I don't just want code to run. I want the circuit to behave, the wa
 
 ---
 
+## Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4.svg?logo=netlify&logoColor=white)](https://bhuvika-aganur-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhuvika-aganur)
+
+---
+
 ## Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,arduino,figma" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-FF6F00.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -79,14 +108,34 @@ Cadence
 
 ---
 
-## GitHub Energy
+## GitHub Stats
 
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME with the exact GitHub username before publishing. -->
-![Bhuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvikaaaa18&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvikaaaa18&layout=compact&theme=radical&hide_border=true)
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -114,5 +163,9 @@ Output: cleaner logic, stronger fundamentals, and a slightly sassier engineer
 ### Circuits may be complex, but the goal is simple:
 
 **Build smart. Learn loud. Debug with attitude.**
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
