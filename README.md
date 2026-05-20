@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Bhuvika Anand Aganur
+# Hey, I'm Bhuvikaaa
 
-### Electronics & Communication Engineering Student | VLSI Curious | Circuit Thinker | Debugging Reality One Signal at a Time
+### Electronics & Communication Engineering Student | VLSI Curious
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhuvika--aganur--portfolio.netlify.app-ff69b4?style=for-the-badge&logo=netlify&logoColor=white)](https://bhuvika-aganur-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvika%20Aganur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhuvika-aganur)
@@ -84,9 +84,9 @@ Cadence
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME with the exact GitHub username before publishing. -->
-![Bhuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Bhuvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvikaaaa18&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvikaaaa18&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
