@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hey, I'm Bhuvikaaa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bhuvikaaa%20Aganur&fontSize=36&fontAlign=50&textColor=fff" alt="header"/>
 
-### Electronics & Communication Engineering Student | VLSI Curious | Circuit Thinker
+# 👋 Hey, I'm Bhuvikaaa
+
+### Electronics & Communication Engineering Student | VLSI Enthusiast | Circuit Thinker
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhuvika--aganur--portfolio.netlify.app-ff69b4?style=for-the-badge&logo=netlify&logoColor=white)](https://bhuvika-aganur-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvika%20Aganur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhuvika-aganur)
@@ -14,9 +16,9 @@
 
 ## About Me
 
-I'm an Electronics and Communication Engineering undergraduate at **Gogte Institute of Technology, Belagavi**, currently building my way through the beautiful chaos of circuits, signals, silicon dreams, and "why is this not working?" moments.
+I'm an Electronics and Communication Engineering undergraduate at **Gogte Institute of Technology, Belagavi**, currently building my way through the beautiful chaos of circuits, signals, silicon dreams, and simulation errors.
 
-I like tech that has both brains and voltage. From **Digital Electronics** and **Analog Circuits** to **Signals & Systems**, **Electronic Devices**, and early VLSI exploration, I enjoy understanding how ideas travel from theory to hardware.
+I like tech that has both brains and voltage. From **Digital Electronics** and **Analog Circuits** to **Signals & Systems**, **Electronic Devices**, and early VLSI exploration, I enjoy understanding how the magic actually happens under the hood.
 
 Translation: I don't just want code to run. I want the circuit to behave, the waveform to make sense, and the schematic to stop judging me.
 
@@ -50,22 +52,22 @@ Translation: I don't just want code to run. I want the circuit to behave, the wa
 ## Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,arduino,figma" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode,arduino,figma" alt="Skills" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Verilog-ED125F.svg?logo=verilog&logoColor=white&style=for-the-badge" alt="Verilog"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-FF6F00.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Verilog-ED125F.svg?logo=verilog&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -73,6 +75,7 @@ Translation: I don't just want code to run. I want the circuit to behave, the wa
   <img src="https://img.shields.io/badge/Analog%20Circuits-Noisy%20but%20Iconic-FF69B4?style=flat-square" />
   <img src="https://img.shields.io/badge/Signals%20%26%20Systems-Frequency%20Fluent-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-Schematic%20Ready-orange?style=flat-square" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Verilog-ED125F.svg?logo=verilog&style=flat-square" />
 </p>
 
 ---
@@ -91,9 +94,9 @@ Translation: I don't just want code to run. I want the circuit to behave, the wa
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME with the exact GitHub username before publishing. -->
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bhuvikaaaa18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhuvikaaaa18&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvikaaaa18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -103,7 +106,7 @@ Translation: I don't just want code to run. I want the circuit to behave, the wa
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bhuvikaaaa18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -134,6 +137,6 @@ Translation: I don't just want code to run. I want the circuit to behave, the wa
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bhuvikaaaa18&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
