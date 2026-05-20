@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bhuvikaaa%20Aganur&fontSize=36&fontAlign=50&textColor=fff" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bhuvikaaa&fontSize=36&fontAlign=50&textColor=fff" alt="header"/>
 
-# 👋 Hey, I'm Bhuvikaaa
-
-### Electronics & Communication Engineering Student | VLSI Enthusiast | Circuit Thinker
+### ECE Student | VLSI Enthusiast | Circuit Thinker
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhuvika--aganur--portfolio.netlify.app-ff69b4?style=for-the-badge&logo=netlify&logoColor=white)](https://bhuvika-aganur-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvika%20Aganur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhuvika-aganur)
