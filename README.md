@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Bhuvika Anand Aganur
+# Hey, I'm Bhuvikaaa
 
-### Electronics & Communication Engineering Student | VLSI Curious | Circuit Thinker | Debugging Reality One Signal at a Time
+### Electronics & Communication Engineering Student | VLSI Curious | Circuit Thinker
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhuvika--aganur--portfolio.netlify.app-ff69b4?style=for-the-badge&logo=netlify&logoColor=white)](https://bhuvika-aganur-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvika%20Aganur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhuvika-aganur)
@@ -86,28 +86,6 @@ Translation: I don't just want code to run. I want the circuit to behave, the wa
 
 ---
 
-## Education
-
-**B.E. in Electronics and Communication Engineering**  
-Gogte Institute of Technology, Belagavi  
-**2023 - 2027**
-
-Relevant coursework includes:
-
-- Digital Electronics
-- Analog Circuits
-- Signals and Systems
-- Electronic Devices
-
----
-
-## Certification
-
-**Virtuoso Schematic Editor S1: Creating Design Schematics vIC25.1**  
-Cadence
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -138,16 +116,6 @@ Cadence
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-## My Engineering Mood
-
-```txt
-Input: curiosity + caffeine + one stubborn bug
-Process: simulate, debug, recheck, learn, repeat
-Output: cleaner logic, stronger fundamentals, and a slightly sassier engineer
-```
 
 ---
 
